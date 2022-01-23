@@ -11,7 +11,7 @@
 
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Luiz-pic" height="150" style="border-radius:50px;" src="./eu.jpeg">
+  <img align="right" alt="Luiz-pic" height="300" style="border-radius: 200px;" src="./eu.jpeg">
 </div>
   
   ##
