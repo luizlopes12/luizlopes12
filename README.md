@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz 
+## Hello! I'm Luiz 
 <div align="center">
   <a href="https://github.com/luizlopes12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlopes12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
