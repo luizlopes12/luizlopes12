@@ -16,7 +16,7 @@
   <img align="center" alt="Luiz-Js" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Luiz-boostrap" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Luiz-C#" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Luiz-.NET" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/net/net-plain.svg">
+  <img align="center" alt="Luiz-.NET" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Luiz-php" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Luiz-mysql" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
     
