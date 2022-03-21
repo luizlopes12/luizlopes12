@@ -2,9 +2,9 @@
 Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema(Redux, Material UI, Styled Components, Axios, entre outros).
 
 #### Formações
-     [x] Técnico em desenvolvimento de Sistemas - Etec
-     [x] Desenvolvedor Fullstack Javascript - Onebitcode
-     [x] Desenvolvimento de Software Multiplataforma - Fatec(Cursando)
+     - [x] Técnico em desenvolvimento de Sistemas - Etec
+     - [x] Desenvolvedor Fullstack Javascript - Onebitcode
+     - [x] Desenvolvimento de Software Multiplataforma - Fatec(Cursando)
      
 
 <div align="left">
