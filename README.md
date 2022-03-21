@@ -21,7 +21,8 @@ Focado em: HTML, CSS, Javascript, Bootstrap, ReactJS, Redux, Styled Components, 
 Conhecimento técnico em: jQuery, .NET C#, PHP e MySql
 
 
-  <div style="display: inline_block">
+
+<div style="display: inline_block">
   <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Luiz-C#" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Luiz-.NET" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
