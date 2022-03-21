@@ -30,8 +30,4 @@
   <a href="https://www.linkedin.com/in/luiz-lopes-30b512218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Luizlopes24" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
-  
-  
-  ![Snake animation](https://github.com/luizlopes12/luizlopes12/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
