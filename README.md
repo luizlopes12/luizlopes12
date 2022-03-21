@@ -1,4 +1,5 @@
-#### Olá!, Meu nome é Luiz, tenho 18 anos e estudo sobre programação desde os meus 16, formado em técnico em Desenvolvimento de Sistemas pela Etec e Atualmente cursando Desenvolvimento de Software Multiplataforma na Fatec, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema(Redux, Material UI, Styled Components, Axios, entre outros).
+#### Olá!, Eu sou o Luiz
+Tenho 18 anos e estudo sobre programação desde os meus 16, formado em técnico em Desenvolvimento de Sistemas pela Etec e Atualmente cursando Desenvolvimento de Software Multiplataforma na Fatec, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema(Redux, Material UI, Styled Components, Axios, entre outros).
 
 <div align="left">
   <a href="https://github.com/luizlopes12">
