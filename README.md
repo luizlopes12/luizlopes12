@@ -17,10 +17,10 @@ Focado em: HTML, CSS, Javascript, Bootstrap, ReactJS, Redux, Styled Components, 
   <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
-<br>
+
 Conhecimento técnico em: jQuery, .NET C#, PHP e MySql
 
-
+<br>
 
 <div style="display: inline_block">
   <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
