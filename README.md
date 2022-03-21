@@ -1,12 +1,12 @@
-#### Olá!, Eu sou o Luiz
+### Olá!, Eu sou o Luiz
 Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema.
 
-#### Formações
+### Formações
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Previsão de término: 12/2024)
      
-#### Tecnologias
+### Tecnologias
 
 Focado em: HTML, CSS, Javascript, Bootstrap, ReactJS, Redux, Styled Components, Material UI e Firebase
 <div style="display: inline_block">
@@ -19,7 +19,6 @@ Focado em: HTML, CSS, Javascript, Bootstrap, ReactJS, Redux, Styled Components, 
 </div>
 <br>
 Conhecimento técnico em: jQuery, .NET C#, PHP e MySql
-<br>
 <br>
 
   <div style="display: inline_block">
