@@ -1,6 +1,9 @@
 #### Olá!, Eu sou o Luiz
 Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema(Redux, Material UI, Styled Components, Axios, entre outros).
 
+#### Formações
+     ![x] 
+
 <div align="left">
   <a href="https://github.com/luizlopes12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizlopes12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
