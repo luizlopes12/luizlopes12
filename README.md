@@ -1,11 +1,25 @@
 #### Olá!, Eu sou o Luiz
-Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema(Redux, Material UI, Styled Components, Axios, entre outros).
+Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema.
 
 #### Formações
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Previsão de término: 12/2024)
      
+#### Tecnologias
+
+Focado em: HTML, CSS, Javascript, Bootstrap, ReactJS, Redux, Styled Components, Material UI, Figma, Firebase
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+  <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg">
+     
+     
+</div>
+Conhecimento técnico em: jQuery, C#, PHP, MySql, Sqlite
 
 <div align="left">
   <a href="https://github.com/luizlopes12">
