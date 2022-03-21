@@ -14,9 +14,9 @@ Focado em: HTML, CSS, Javascript, Bootstrap, ReactJS, Redux, Styled Components, 
   <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
-  <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/styled-components/styled-components-original.svg">
-     
+  <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+
      
 </div>
 Conhecimento técnico em: jQuery, C#, PHP, MySql, Sqlite
