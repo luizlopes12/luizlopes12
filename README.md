@@ -8,13 +8,12 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
      
 ### Tecnologias
 
-Focado em: HTML, CSS, Javascript, ReactJS, Redux, Styled Components, Material UI e Firebase
+Focado em: HTML, CSS, Javascript, ReactJS, Redux, Styled Components, e Firebase
 <div style="display: inline_block">
   <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
   <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 
