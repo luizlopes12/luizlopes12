@@ -14,6 +14,8 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Styled Components e Firebase
   <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Luiz-Redux" height="45" src="./redux.png">
+  <img align="center" alt="Luiz-Styled" height="45" src="./styled.png">
   <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 
