@@ -19,7 +19,7 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Styled Components e Firebase
   <img align="center" alt="Luiz-Material" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 
-Conhecimento técnico em: jQuery, .NET C#, PHP e MySql
+Conhecimento básico em: jQuery, .NET C#, PHP e MySql
 
 
 <div style="display: inline_block">
