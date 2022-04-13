@@ -19,7 +19,7 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Styled Components e NodeJS
   <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
 </div>
 
-Conhecimento básico em: jQuery, .NET C#, PHP e MySql
+Conhecimento técnico em: jQuery, .NET C#, PHP e MySql
 
 
 <div style="display: inline_block">
