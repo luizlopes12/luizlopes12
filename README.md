@@ -20,7 +20,7 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components e Fir
      
 </div>
 
-Conhecimento técnico em: jQuery, .NET C#, PHP, MySql e NodeJS
+Conhecimento técnico em: jQuery, .NET C#, PHP, MySql, MongoDB e NodeJS
 
 
 <div style="display: inline_block">
@@ -29,6 +29,7 @@ Conhecimento técnico em: jQuery, .NET C#, PHP, MySql e NodeJS
   <img align="center" alt="Luiz-.NET" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
   <img align="center" alt="Luiz-php" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Luiz-mysql" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
      
      
