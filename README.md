@@ -8,7 +8,7 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
      
 ### Tecnologias
 
-Focado em: HTML, CSS, Javascript, ReactJS, Redux, Styled Components e Firebase
+Focado em: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components e Firebase
 <div style="display: inline_block">
   <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
