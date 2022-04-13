@@ -20,7 +20,7 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components e Fir
      
 </div>
 
-Conhecimento técnico em: jQuery, .NET C#, PHP, MySql, MongoDB e NodeJS
+Conhecimento básico em: jQuery, .NET C#, PHP, MySql, MongoDB e NodeJS
 
 
 <div style="display: inline_block">
