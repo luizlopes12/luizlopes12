@@ -3,12 +3,12 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 
 ### Experiência
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
-- [ ] DivTech - Desenvolvedor Fullstack (04/2022 - Atualmente)
+- [ ] DivTech - Estagiário de Desenvolvimento Fullstack (04/2022 - Atualmente)
 
 
 ### Formações
 - [x] Técnico em desenvolvimento de Sistemas - Etec
-- [x] Estagiário de desenvolvimento Fullstack Javascript - Onebitcode
+- [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [x] React Front To Back 2022 - Traversy
 - [x] Formação Node.js - Alura
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Previsão de término: 12/2024)
