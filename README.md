@@ -31,7 +31,7 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components, Fire
    <br>
 <div align='center'> 
   <a href="https://luizlopes12.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=riotgames&logoColor=white" target="_blank"></a> 
-  <a href="./luiz_lopes.pdf" target="_blank"><img src="https://img.shields.io/badge/Curriculo-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" target="_blank"></a> 
+  <a href="./luiz_lopes.pdf" download='luiz_lopes.pdf'><img src="https://img.shields.io/badge/Curriculo-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luiz-lopes-30b512218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Luizlopes24" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   
