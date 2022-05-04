@@ -1,5 +1,5 @@
 ### Olá!, Eu sou o Luiz
-Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em React, Node e todo o seu ecossistema.
+Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Fullstack, estou completamente focado em React, Node e todo o seu ecossistema.
 
 ### Experiência
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
