@@ -1,5 +1,5 @@
 ### Olá!, Eu sou o Luiz
-Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em ReactJS e seu ecossistema.
+Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Front End, estou completamente focado em React, Node e todo o seu ecossistema.
 
 ### Formações
 - [x] Técnico em desenvolvimento de Sistemas - Etec
