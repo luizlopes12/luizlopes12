@@ -9,7 +9,7 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 ### Formações
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
-- [x] React Front To Back 2022 - Traversy Media
+- [x] React.js Front To Back 2022 - Traversy Media
 - [x] Formação Node.js - Alura
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Previsão de término: 12/2024)
      
