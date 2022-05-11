@@ -3,7 +3,7 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 
 ### Experiência
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
-- [ ] DivTech - Desenvolvedor Fullstack (Atualmente)
+- [ ] DivTech - Estagiário de Desenvolvimento Fullstack (Atualmente)
 
 
 ### Formações
