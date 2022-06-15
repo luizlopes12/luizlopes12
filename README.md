@@ -1,7 +1,7 @@
 ### Olá!, Eu sou o Luiz
 Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de me tornar um desenvolvedor Fullstack, estou completamente focado em React, Node e todo o seu ecossistema.
 
-### Experiência
+### Experiências
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
 - [x] DivTech - Estagiário de desenvolvimento Fullstack (03/2022 - 06/2022)
 - [x] Isat - Desenvolvedor Frontend Junior (06/2022 - Atualmente)
@@ -13,6 +13,9 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 - [x] Formação Node.js - Alura
 - [ ] Formação Vue.js - Alura
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Previsão de término: 12/2024)
+
+### Eventos
+- [x] Hackatur - 1° Hackaton de turismo do Vale do Ribeira
      
 ### Tecnologias
 
