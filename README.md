@@ -4,13 +4,14 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 ### Experiência
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
 - [x] DivTech - Estagiário de desenvolvimento Fullstack (03/2022 - 06/2022)
-- [ ] Isat - Desenvolvedor Frontend Junior (06/2022 - Atualmente)
+- [x] Isat - Desenvolvedor Frontend Junior (06/2022 - Atualmente)
 
 ### Formações
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [x] React.js Front To Back 2022 - Traversy Media
 - [x] Formação Node.js - Alura
+- [ ] Formação Vue.js - Alura
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Previsão de término: 12/2024)
      
 ### Tecnologias
