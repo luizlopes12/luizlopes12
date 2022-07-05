@@ -11,7 +11,7 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [x] React.js Front To Back 2022 - Traversy Media
 - [x] Formação Node.js - Alura
-- [ ] Formação Vue.js - Alura (Cursando)
+- [x] Formação Vue.js - Alura
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
 
 ### Eventos
