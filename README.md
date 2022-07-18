@@ -7,12 +7,12 @@ Tenho 18 anos e estudo sobre programação desde os meus 16, com o objetivo de m
 - [ ] Isat - Desenvolvedor Frontend Jr (06/2022 - Atualmente)
 
 ### Formações
+- [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [x] React.js Front To Back 2022 - Traversy Media
 - [x] Formação Node.js - Alura
 - [x] Formação Vue.js - Alura
-- [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
 
 ### Eventos
 - [x] Hackatur - 1° Hackaton de turismo do Vale do Ribeira
