@@ -1,5 +1,5 @@
 ### Olá!, Eu sou o Luiz
-Sou um desenvolvedor focado no ecossistema javascript, focado principalmente em React.js, React Native e Node.js
+Sou um desenvolvedor focado no ecossistema javascript, focado principalmente em React.js, React Native e Node.js.
 
 ### Experiências
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
