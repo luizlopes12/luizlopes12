@@ -8,6 +8,7 @@ Sou um desenvolvedor focado no ecossistema javascript, focado principalmente em 
 
 ### Formações
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
+- [ ] Planejamento e criação de Startups - USP(Cursando)
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
 - [x] React.js Front To Back 2022 - Traversy Media
