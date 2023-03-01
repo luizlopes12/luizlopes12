@@ -7,7 +7,7 @@ Sou um desenvolvedor focado no ecossistema javascript, focado principalmente em 
 - [ ] Isat - Desenvolvedor Frontend (06/2022 - Atualmente)
 
 ### Formações
-- [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
+- [ ] Desenvolvimento de Software Multiplataforma - Fatec (02/2022 - Atualmente)
 - [x] Planejamento e criação de Startups - USP
 - [x] Técnico em desenvolvimento de Sistemas - Etec
 - [x] Desenvolvedor Fullstack Javascript - Onebitcode
