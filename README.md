@@ -4,6 +4,7 @@ Sou um desenvolvedor focado no ecossistema javascript, focado principalmente em 
 ### Experiências
 - [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
 - [x] DivTech - Desenvolvedor Fullstack (03/2022 - 06/2022)
+- [x] BRIK - Desenvolvedor Fullstack (11/2022 - 05/2022)
 - [ ] Isat - Desenvolvedor Frontend (06/2022 - Atualmente)
 
 ### Formações
