@@ -1,27 +1,28 @@
-### Olá!, Eu sou o Luiz
-Sou um desenvolvedor focado no ecossistema javascript, focado principalmente em React.js, React Native e Node.js.
-<!--Alguem invadiu sua conta, troque de senha está vulneravel cuidado -->
-### Experiências
-- [x] Digital Point - Estagiário de Sistemas (06/2021 - 12/2021)
-- [x] DivTech - Desenvolvedor Fullstack (03/2022 - 06/2022)
-- [x] BRIK - Desenvolvedor Fullstack (11/2022 - 05/2023)
-- [ ] Isat - Desenvolvedor Frontend (06/2022 - Atualmente)
+### Hello there! I'm Luiz
+I'm a developer focused on the JavaScript ecosystem, primarily working with React.js, React Native, and Node.js.
+<!--Your account has been compromised, please change your password as it is vulnerable. Be cautious.-->
+### Experience
+- [x] Digital Point - Systems Intern (06/2021 - 12/2021)
+- [x] DivTech - Fullstack Developer (03/2022 - 06/2022)
+- [x] BRIK - Fullstack Developer (11/2022 - 05/2023)
+- [ ] Isat - Frontend Developer (06/2022 - Present)
 
-### Formações
-- [ ] Desenvolvimento de Software Multiplataforma - Fatec (02/2022 - Atualmente)
-- [x] Planejamento e criação de Startups - USP
-- [x] Técnico em desenvolvimento de Sistemas - Etec
-- [x] Desenvolvedor Fullstack Javascript - Onebitcode
+### Education
+- [ ] Multiplatform Software Development - Fatec (02/2022 - Present)
+- [x] Startup Planning and Creation - USP
+- [x] Systems Development Technician - Etec
+- [x] Fullstack JavaScript Developer - Onebitcode
 - [x] React.js Front To Back 2022 - Traversy Media
-- [x] Formação Node.js - Alura
-- [x] Formação Vue.js - Alura
+- [x] Node.js Track - Alura
+- [x] Vue.js Track - Alura
 
-### Eventos
-- [x] Hackatur - 1° Hackaton de turismo do Vale do Ribeira
-     
-### Tecnologias
+### Events
+- [x] Hackatur - 1st Tourism Hackathon of Vale do Ribeira
 
-Focado em: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components, Firebase, Node, MySql e MongoDB.
+### Technologies
+
+Focused on: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components, Firebase, Node, MySQL, and MongoDB.
+
 <div style="display: inline_block">
   <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -35,17 +36,12 @@ Focado em: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components, Fire
   <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </div>
 
-
-     
-     
-</div>
-   <br><br>
-   <div align='center'>Entre em contato</div>
-   <br>
+<br><br>
+<div align='center'>Get in touch</div>
+<br>
 <div align='center'> 
   <a href="https://luizlopes12.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=riotgames&logoColor=white" target="_blank"></a> 
-  <a href="./Luiz_Lopes.pdf" download='Luiz_Lopes.pdf' type='application/pdf'><img src="https://img.shields.io/badge/Curriculo-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" target="_blank"></a> 
+  <a href="./Luiz_Lopes.pdf" download='Luiz_Lopes.pdf' type='application/pdf'><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luiz-lopes-30b512218/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/Luizlopes24" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  
 </div>
