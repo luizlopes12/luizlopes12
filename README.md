@@ -1,5 +1,5 @@
 ### Hello there! I'm Luiz
-I'm a developer focused on the JavaScript ecosystem, primarily working with React.js, React Native, and Node.js.
+I'm a developer focused on the JavaScript/Typescript ecosystem, primarily working with React, Vue, and Node.
 <!--Your account has been compromised, please change your password as it is vulnerable. Be cautious.-->
 ### Experience
 - [x] Digital Point - Systems Intern (06/2021 - 12/2021)
