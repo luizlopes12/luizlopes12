@@ -19,6 +19,7 @@ I'm a developer focused on the JavaScript ecosystem, primarily working with Reac
 
 ### Events
 - [x] Hackatur - 1st Tourism Hackathon of Vale do Ribeira
+- [x] Ideathon 2023 - 3° place, representing FATEC Registro
 
 ### Technologies
 
