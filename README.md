@@ -6,7 +6,7 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [x] DivTech - Fullstack Developer (03/2022 - 06/2022)
 - [x] Fatec Registro - Fullstack Developer (08/2022 - 09/2022)
 - [x] BRIK - Fullstack Developer (11/2022 - 05/2023)
-- [ ] Isat - Frontend Developer (06/2022 - Present)
+- [ ] Inspand - Frontend Developer (06/2022 - Present)
 
 ### Education
 - [ ] Multiplatform Software Development - Fatec (02/2022 - Present)
