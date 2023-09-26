@@ -3,8 +3,8 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 <!--Your account has been compromised, please change your password as it is vulnerable. Be cautious.-->
 ### Experience
 - [x] Digital Point - Systems Intern (06/2021 - 12/2021)
-- [x] DivTech - Fullstack Developer (03/2022 - 06/2022)
-- [x] Fatec Registro - Fullstack Developer (08/2022 - 09/2022)
+- [x] DivTech - Fullstack Developer (01/2022 - 06/2022)
+- [x] Fatec Registro - Fullstack Developer (07/2022 - 09/2022)
 - [x] BRIK - Fullstack Developer (11/2022 - 05/2023)
 - [ ] Inspand - Frontend Developer (06/2022 - Present)
 
@@ -23,7 +23,7 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 
 ### Technologies
 
-Focused on: HTML, CSS, Javascript, ReactJS, Redux, Axios, Styled Components, Firebase, Node, MySQL, and MongoDB.
+Focused on: HTML, CSS, Javascript, React, Redux, Axios, Styled Components, Firebase, Node, MySQL, and MongoDB.
 
 <div style="display: inline_block">
   <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
