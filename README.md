@@ -34,7 +34,7 @@ Focused on: HTML, CSS, Javascript, React, Redux, Axios, Styled Components, Fireb
   <img align="center" alt="Luiz-Styled" height="45" src="./styled.png">
   <img align="center" alt="Luiz-Firebase" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />   
-  <img align="center" alt="Luiz-mysql" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+  <img align="center" alt="Luiz-mysql" height="45" src="https://raw.githubusercontent.com/devicons/devicon/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 </div>
 
