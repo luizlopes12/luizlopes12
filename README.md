@@ -9,7 +9,7 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [ ] Inspand - Frontend Developer (06/2022 - Present)
 
 ### Education
-- [ ] Multiplatform Software Development - Fatec (02/2022 - Present)
+- [ ] Software Development Degree - Fatec (02/2022 - Present)
 - [x] Startup Planning and Creation - USP
 - [x] Systems Development Technician - Etec
 - [x] Fullstack JavaScript Developer - Onebitcode
