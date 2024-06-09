@@ -24,19 +24,8 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 
 ### Technologies
 
-Focused on: HTML, CSS, Javascript, React, Redux, Axios, Styled Components, Firebase, Node, MySQL, and MongoDB.
+Focused on: React, Node, Vue, Typescript and it's all ecossystem.
 
-<div style="display: inline_block">
-  <img align="center" alt="Luiz-HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-Js" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-React" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luiz-Redux" height="45" src="./redux.svg">
-  <img align="center" alt="Luiz-Styled" height="45" src="./styled.png">
-  <img align="center" alt="Luiz-Firebase" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-  <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />   
-  <img align="center" alt="Luiz-Node" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-</div>
 
 <br><br>
 <div align='center'>Get in touch</div>
