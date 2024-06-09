@@ -6,10 +6,11 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [x] DivTech - Fullstack Developer (01/2022 - 06/2022)
 - [x] Fatec Registro - Fullstack Developer (07/2022 - 09/2022)
 - [x] BRIK - Fullstack Developer (11/2022 - 05/2023)
-- [ ] Inspand - Frontend Developer (06/2022 - Present)
+- [x] Inspand - Frontend Developer (06/2022 - 06/2024)
+- [ ] Trade Insights - Frontend Engineer (06/2024 - Present)
 
 ### Education
-- [ ] Software Development Degree - Fatec (02/2022 - Present)
+- [ ] Software Development Degree - Fatec (02/2022 - 12/2024)
 - [x] Startup Planning and Creation - USP
 - [x] Systems Development Technician - Etec
 - [x] Fullstack JavaScript Developer - Onebitcode
