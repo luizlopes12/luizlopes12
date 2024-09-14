@@ -3,11 +3,11 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 <!--Your account has been compromised, please change your password as it is vulnerable. Be cautious.-->
 ### Experience
 - [x] Digital Point - Systems Intern (06/2021 - 12/2021)
-- [x] DivTech - Fullstack Developer (01/2022 - 06/2022)
-- [x] Fatec Registro - Fullstack Developer (07/2022 - 09/2022)
-- [x] BRIK - Fullstack Developer (11/2022 - 05/2023)
-- [x] Inspand - Frontend Developer (06/2022 - 06/2024)
-- [ ] Trade Insights - Frontend Engineer (06/2024 - Present)
+- [x] DivTech - Software Engineer (01/2022 - 06/2022)
+- [x] Fatec Registro - Software Engineer (07/2022 - 09/2022)
+- [x] BRIK - Software Engineer (11/2022 - 05/2023)
+- [x] Inspand - Frontend Software Engineer (06/2022 - 06/2024)
+- [ ] Trade Insights - Software Engineer (06/2024 - Present)
 
 ### Education
 - [ ] Software Development Degree - Fatec (02/2022 - 12/2024)
