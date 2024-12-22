@@ -8,10 +8,10 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [x] BRIK - Software Engineer (11/2022 - 05/2023)
 - [x] Inspand - Frontend Software Engineer (06/2022 - 06/2024)
 - [x] Trade Insights - Software Engineer (06/2024 - 10/2024)
-- [ ] Stefanini - Frontend Software Engineer (10/2024 - present)
+- [ ] Stefanini - Software Engineer (10/2024 - present)
 
 ### Education
-- [ ] Software Development Degree - Fatec (02/2022 - 12/2024)
+- [x] Software Development Degree - Fatec (02/2022 - 12/2024)
 - [x] Startup Planning and Creation - USP
 - [x] Systems Development Technician - Etec
 - [x] Fullstack JavaScript Developer - Onebitcode
