@@ -11,7 +11,8 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [ ] Stefanini - Software Engineer (10/2024 - present)
 
 ### Education
-- [x] Software Development Degree - Fatec (02/2022 - 12/2024)
+- [x] Software Engineering Specialization - Focus College (01/2025 - 12/2025)
+- [x] Software Engineering Degree - Fatec
 - [x] Startup Planning and Creation - USP
 - [x] Systems Development Technician - Etec
 - [x] Fullstack JavaScript Developer - Onebitcode
