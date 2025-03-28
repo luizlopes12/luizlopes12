@@ -2,13 +2,13 @@
 I'm a developer focused on the JavaScript/Typescript ecosystem, primarily working with React, Vue, and Node.
 <!--Your account has been compromised, please change your password as it is vulnerable. Be cautious.-->
 ### Experience
-- [x] Digital Point - Systems Intern (06/2021 - 12/2021)
-- [x] DivTech - Software Engineer (01/2022 - 06/2022)
-- [x] Fatec Registro - Software Engineer (07/2022 - 09/2022)
-- [x] BRIK - Software Engineer (11/2022 - 05/2023)
-- [x] Inspand - Frontend Software Engineer (06/2022 - 06/2024)
-- [x] Trade Insights - Software Engineer (06/2024 - 10/2024)
 - [ ] Stefanini - Software Engineer (10/2024 - present)
+- [x] Trade Insights - Software Engineer (06/2024 - 10/2024)
+- [x] Inspand - Frontend Software Engineer (06/2022 - 06/2024)
+- [x] BRIK - Software Engineer (11/2022 - 05/2023)
+- [x] Fatec Registro - Software Engineer (07/2022 - 09/2022)
+- [x] DivTech - Software Engineer (01/2022 - 06/2022)
+- [x] Digital Point - Systems Intern (06/2021 - 12/2021)
 
 ### Education
 - [ ] Software Engineering Specialization - Focus College (01/2025 - 12/2025)
