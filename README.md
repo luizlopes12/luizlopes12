@@ -14,7 +14,9 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [ ] Software Engineering Specialization - Focus College (01/2025 - 12/2025)
 - [x] Software Engineering Degree - Fatec
 - [x] Startup Planning and Creation - USP
-- [x] Systems Development Technician - Etec
+- [x] Software Development Associate Degree - Etec
+
+### Courses
 - [x] Fullstack JavaScript Developer - Onebitcode
 - [x] React.js Front To Back 2022 - Traversy Media
 - [x] Node.js Track - Alura
