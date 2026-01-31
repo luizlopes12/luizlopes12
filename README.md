@@ -11,11 +11,14 @@ I'm a developer focused on the JavaScript/Typescript ecosystem, primarily workin
 - [x] Digital Point - Systems Intern (06/2021 - 12/2021)
 
 ### Education
-- [x] C1 English Certification - TOEIC
 - [x] Software Engineering Specialization - Focus College
 - [x] Software Engineering Degree - Fatec
 - [x] Startup Planning and Creation - USP
 - [x] Software Development Associate Degree - Etec
+
+### Certifications
+- [x] C1 English Certification - TOEIC
+- [x] AI Fundamentals - Databricks
 
 ### Courses
 - [x] Fullstack JavaScript Developer - Onebitcode
